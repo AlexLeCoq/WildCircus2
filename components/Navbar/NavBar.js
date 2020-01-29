@@ -14,10 +14,9 @@ const NavBar = props => (
         ))}
     <style jsx>{`
       .navbar-container {
-        background-color: black;
+        background-color: transparent;
         display: flex;
         align-items: center;
-
       }
 
       .logo-container {

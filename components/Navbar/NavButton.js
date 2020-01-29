@@ -11,7 +11,7 @@ const NavButton = props => (
       <div className="Label">{props.label}</div>
     <style jsx>{`
       .NavButton {
-        color: white;
+        color: black;
         display: inline-block;
         justify-content: space-around;
         align-items: right;
