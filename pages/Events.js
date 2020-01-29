@@ -10,4 +10,4 @@ const Events = () => (
   </div>
 );
 
-export default Home;
+export default Events;
